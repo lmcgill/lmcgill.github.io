@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G.H. Holtgrieve | </title>
+    <link>/authors/g.h.-holtgrieve/</link>
+      <atom:link href="/authors/g.h.-holtgrieve/index.xml" rel="self" type="application/rss+xml" />
+    <description>G.H. Holtgrieve</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 14:41:00 -0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G.H. Holtgrieve</title>
+      <link>/authors/g.h.-holtgrieve/</link>
+    </image>
+    
+    <item>
+      <title>Western North America River Discharge Trends</title>
+      <link>/project/west_coast_hydrograph/</link>
+      <pubDate>Mon, 01 Jan 2018 14:41:00 -0800</pubDate>
+      <guid>/project/west_coast_hydrograph/</guid>
+      <description>&lt;p&gt;Climate change is expected to alter aspects of streamflow timing, magntidue, and frequency across the globe. In western North America, processes based models predict that changes will be particularly pronounced due to river hydrology dependent on mountain snowpack from the Cascades, Sierra Nevada, and coast ranges. This project aims to use dynamic factor analysis (DFA) to examine time series of several discharge metrics that capture ecologically relevant facets of streamflow across 183 rivers from 1950-2016.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

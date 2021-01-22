@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | </title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 12:07:04 -0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Elevation and spatial structure explain most surface-water isotopic variation across five Pacific Coast basins</title>
+      <link>/publication/cross_basin_compare/</link>
+      <pubDate>Wed, 29 Jan 2020 12:07:04 -0800</pubDate>
+      <guid>/publication/cross_basin_compare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ecosystem model for evaluating the effects of introduced Pacific salmon on contaminant burdens of stream-resident fish</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive effects of introduced Pacific salmon and brown trout on native brook trout: an experimental and modeling approach</title>
+      <link>/publication/fish_mesocosm/</link>
+      <pubDate>Sun, 28 May 2017 18:44:54 -0800</pubDate>
+      <guid>/publication/fish_mesocosm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

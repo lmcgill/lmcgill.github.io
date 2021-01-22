@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E.A. Steel | </title>
+    <link>/authors/e.a.-steel/</link>
+      <atom:link href="/authors/e.a.-steel/index.xml" rel="self" type="application/rss+xml" />
+    <description>E.A. Steel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 14:40:43 -0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>E.A. Steel</title>
+      <link>/authors/e.a.-steel/</link>
+    </image>
+    
+    <item>
+      <title>Snoqualmie River Water Sources</title>
+      <link>/project/snoqualmie/</link>
+      <pubDate>Wed, 29 Jan 2020 14:40:43 -0800</pubDate>
+      <guid>/project/snoqualmie/</guid>
+      <description>&lt;p&gt;In mountainous river basins of the Pacific Northwest, climate models predict that winter warming will result in increased precipitation falling as rain and in decreased snowpack. A detailed understanding of the spatial and temporal dynamics of water sources across river networks is central to managing impacts of climate change on river flow regimes. Because stable isotope composition of precipitation varies geographically, variation in surface-water isotope signature indicates the volume-weighted integration of upstream source water. We measured the stable isotope ratios of surface-water samples collected in the Snoqualmie River basin in western Washington over the 2018 water year.&lt;/p&gt;
+&lt;p&gt;We used a class of geostatistical models that account for the spatial dependencies of dendritic river networks (e.g., branching and longitudinal connectivity), Spatial Stream Network (SSN) models, to generate surface water isoscapes for the basin across summer low flow, fall wet up, winter wet period, and spring snowmelt and to quantify the relative role of in-stream versus landscape processes contributing to variability in isotope ratios. We used model results to develop a conceptual framework of streamflow generation, in order to understand how changing water storage reservoirs (e.g. snow and groundwater) contribute to streamflow across both space and time.&lt;/p&gt;
+&lt;p&gt;This research was funded by a &lt;a href=&#34;https://nwcasc.uw.edu/&#34;&gt; Northwest Climate Adaptation Science Center &lt;/a&gt; graduate research fellowship. Future research will link this information with predicted shifts in precipitation quantity and quality and water temperature data to help design restoration strategies for endangered Pacific salmon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

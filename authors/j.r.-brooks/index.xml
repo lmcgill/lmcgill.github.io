@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.R. Brooks | </title>
+    <link>/authors/j.r.-brooks/</link>
+      <atom:link href="/authors/j.r.-brooks/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.R. Brooks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 14:40:43 -0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J.R. Brooks</title>
+      <link>/authors/j.r.-brooks/</link>
+    </image>
+    
+    <item>
+      <title>Snoqualmie River Water Sources</title>
+      <link>/project/snoqualmie/</link>
+      <pubDate>Wed, 29 Jan 2020 14:40:43 -0800</pubDate>
+      <guid>/project/snoqualmie/</guid>
+      <description>&lt;p&gt;In mountainous river basins of the Pacific Northwest, climate models predict that winter warming will result in increased precipitation falling as rain and in decreased snowpack. A detailed understanding of the spatial and temporal dynamics of water sources across river networks is central to managing impacts of climate change on river flow regimes. Because stable isotope composition of precipitation varies geographically, variation in surface-water isotope signature indicates the volume-weighted integration of upstream source water. We measured the stable isotope ratios of surface-water samples collected in the Snoqualmie River basin in western Washington over the 2018 water year.&lt;/p&gt;
+&lt;p&gt;We used a class of geostatistical models that account for the spatial dependencies of dendritic river networks (e.g., branching and longitudinal connectivity), Spatial Stream Network (SSN) models, to generate surface water isoscapes for the basin across summer low flow, fall wet up, winter wet period, and spring snowmelt and to quantify the relative role of in-stream versus landscape processes contributing to variability in isotope ratios. We used model results to develop a conceptual framework of streamflow generation, in order to understand how changing water storage reservoirs (e.g. snow and groundwater) contribute to streamflow across both space and time.&lt;/p&gt;
+&lt;p&gt;This research was funded by a &lt;a href=&#34;https://nwcasc.uw.edu/&#34;&gt; Northwest Climate Adaptation Science Center &lt;/a&gt; graduate research fellowship. Future research will link this information with predicted shifts in precipitation quantity and quality and water temperature data to help design restoration strategies for endangered Pacific salmon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elevation and spatial structure explain most surface-water isotopic variation across five Pacific Coast basins</title>
+      <link>/publication/cross_basin_compare/</link>
+      <pubDate>Wed, 29 Jan 2020 12:07:04 -0800</pubDate>
+      <guid>/publication/cross_basin_compare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross Basin Isotope Comparison</title>
+      <link>/project/cross_basin_comparison/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/project/cross_basin_comparison/</guid>
+      <description>&lt;p&gt;Isoscapes are a framework that describe the spatial patterns in isotopic ratios across a landscape and are useful for addressing a variety of basic and applied research questions. Stable isotopes of oxygen and hydrogen can be harnessed to determine source-water contributions to streamflow on a range of spatial and temporal scales, estimate mean transit times, and understand hydrologic flow paths. Despite the widespread use of water isotope ratios in research and their potential application for predicting future flows under a changing climate or for identifying likely areas of cool water for fisheries management, few studies have compared drivers of variation in isotopic ratios at the basin scale or across basins.&lt;/p&gt;
+&lt;p&gt;Drivers of variation in water isotopic spatial patterns across basins must be understood before ecologically relevant and isotopically distinct water sources can be identified and this tool efficiently applied. In this study, we compare the spatial patterns of surface water isotopes across five basins within Washington and Southeastern Alaska to quantify and compare local controls on isotopic variability of surface water and to explore the utility of applying simple elevation regressions models for estimating water source across river basins. We also compare the performance of models with and without network-based spatial autocorrelation. Specifically, the objectives of our study are (1) to compare the strength with which isotope ratios vary by mean watershed elevation (MWE) across five river basins, (2) to assess and compare whether additional landscape predictors improve models of isotope ratios across basins, and (3) to explore where SNNMs might be used to improve river water isoscape generation.&lt;/p&gt;
+&lt;p&gt;This research was funded by a &lt;a href=&#34;https://nwcasc.uw.edu/&#34;&gt; Northwest Climate Adaptation Science Center &lt;/a&gt; graduate research fellowship. Our study will provide insights for interpreting water source contributions downstream and guidance for understanding the types, advantages, and disadvantages of isoscape generation. The project is highly relevant to researchers and resource managers seeking to understand how isoscapes can be generated and used for surface water management.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
