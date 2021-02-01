@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | </title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
+    <title>1 | </title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Jan 2021 12:07:04 -0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <title>1</title>
+      <link>/publication_types/1/</link>
     </image>
     
     <item>
-      <title>2</title>
-      <link>/publication_types/2/</link>
+      <title>Spatiotemporal dynamics of water sources in a mountain river basin inferred through δ&lt;sup&gt;2&lt;/sup&gt;H and δ&lt;sup&gt;18&lt;/sup&gt;O of water</title>
+      <link>/publication/snoqualmie_isotopes/</link>
       <pubDate>Sun, 31 Jan 2021 12:07:04 -0800</pubDate>
-      <guid>/publication_types/2/</guid>
+      <guid>/publication/snoqualmie_isotopes/</guid>
       <description></description>
     </item>
     
