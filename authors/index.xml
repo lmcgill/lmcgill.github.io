@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 14:40:43 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 18:44:54 -0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>E.A Steel</title>
+      <link>/authors/e.a-steel/</link>
+      <pubDate>Thu, 28 Jan 2021 18:44:54 -0800</pubDate>
+      <guid>/authors/e.a-steel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.R. Brooks</title>
+      <link>/authors/j.r.-brooks/</link>
+      <pubDate>Thu, 28 Jan 2021 18:44:54 -0800</pubDate>
+      <guid>/authors/j.r.-brooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L.M. McGill</title>
+      <link>/authors/l.m.-mcgill/</link>
+      <pubDate>Thu, 28 Jan 2021 18:44:54 -0800</pubDate>
+      <guid>/authors/l.m.-mcgill/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A.H. Fullerton</title>
@@ -25,30 +49,6 @@
       <link>/authors/e.a.-steel/</link>
       <pubDate>Wed, 29 Jan 2020 14:40:43 -0800</pubDate>
       <guid>/authors/e.a.-steel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J.R. Brooks</title>
-      <link>/authors/j.r.-brooks/</link>
-      <pubDate>Wed, 29 Jan 2020 14:40:43 -0800</pubDate>
-      <guid>/authors/j.r.-brooks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L.M. McGill</title>
-      <link>/authors/l.m.-mcgill/</link>
-      <pubDate>Wed, 29 Jan 2020 14:40:43 -0800</pubDate>
-      <guid>/authors/l.m.-mcgill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E.A Steel</title>
-      <link>/authors/e.a-steel/</link>
-      <pubDate>Wed, 29 Jan 2020 12:07:04 -0800</pubDate>
-      <guid>/authors/e.a-steel/</guid>
       <description></description>
     </item>
     

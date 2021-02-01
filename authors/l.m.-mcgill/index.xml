@@ -5,12 +5,20 @@
     <link>/authors/l.m.-mcgill/</link>
       <atom:link href="/authors/l.m.-mcgill/index.xml" rel="self" type="application/rss+xml" />
     <description>L.M. McGill</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 14:40:43 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 18:44:54 -0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>L.M. McGill</title>
       <link>/authors/l.m.-mcgill/</link>
     </image>
+    
+    <item>
+      <title>Spatiotemporal dynamics of water sources in a mountain river basin inferred through δ2H and δ18O of water</title>
+      <link>/publication/snoqualmie_isotopes/</link>
+      <pubDate>Thu, 28 Jan 2021 18:44:54 -0800</pubDate>
+      <guid>/publication/snoqualmie_isotopes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Snoqualmie River Water Sources</title>
@@ -28,14 +36,6 @@
       <link>/publication/cross_basin_compare/</link>
       <pubDate>Wed, 29 Jan 2020 12:07:04 -0800</pubDate>
       <guid>/publication/cross_basin_compare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatiotemporal dynamics of water sources in a mountain river basin inferred through δ2H and δ18O of water</title>
-      <link>/publication/snoqualmie_isotopes/</link>
-      <pubDate>Wed, 29 Jan 2020 12:07:04 -0800</pubDate>
-      <guid>/publication/snoqualmie_isotopes/</guid>
       <description></description>
     </item>
     
