@@ -5,7 +5,7 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Jan 2021 12:07:04 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 12:07:04 -0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Spatiotemporal dynamics of water sources in a mountain river basin inferred through δ2H and δ18O of water</title>
-      <link>/publication/snoqualmie_isotopes/</link>
-      <pubDate>Sun, 31 Jan 2021 12:07:04 -0800</pubDate>
-      <guid>/publication/snoqualmie_isotopes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Elevation and spatial structure explain most surface-water isotopic variation across five Pacific Coast basins</title>
       <link>/publication/cross_basin_compare/</link>
       <pubDate>Wed, 29 Jan 2020 12:07:04 -0800</pubDate>
       <guid>/publication/cross_basin_compare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal dynamics of water sources in a mountain river basin inferred through δ2H and δ18O of water</title>
+      <link>/publication/snoqualmie_isotopes/</link>
+      <pubDate>Wed, 29 Jan 2020 12:07:04 -0800</pubDate>
+      <guid>/publication/snoqualmie_isotopes/</guid>
       <description></description>
     </item>
     
