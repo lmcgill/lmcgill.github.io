@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 18:44:54 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jan 2023 18:44:54 -0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,8 +15,120 @@
     <item>
       <title>A.H. Fullerton</title>
       <link>/authors/a.h.-fullerton/</link>
-      <pubDate>Thu, 28 Jan 2021 18:44:54 -0800</pubDate>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
       <guid>/authors/a.h.-fullerton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.J. Shogren</title>
+      <link>/authors/a.j.-shogren/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/a.j.-shogren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B.C. Brown</title>
+      <link>/authors/b.c.-brown/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/b.c.-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B.W. Abbot</title>
+      <link>/authors/b.w.-abbot/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/b.w.-abbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Ruffing</title>
+      <link>/authors/c.-ruffing/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/c.-ruffing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Kopp</title>
+      <link>/authors/d.-kopp/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/d.-kopp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D.C. Allen</title>
+      <link>/authors/d.c.-allen/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/d.c.-allen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Tromboni</title>
+      <link>/authors/f.-tromboni/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/f.-tromboni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.A. Webb</title>
+      <link>/authors/j.a.-webb/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/j.a.-webb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.B. Jones Jr.</title>
+      <link>/authors/j.b.-jones-jr./</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/j.b.-jones-jr./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.P. Zarnetske</title>
+      <link>/authors/j.p.-zarnetske/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/j.p.-zarnetske/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Kuglerova</title>
+      <link>/authors/l.-kuglerova/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/l.-kuglerova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L.M. McGill</title>
+      <link>/authors/l.m.-mcgill/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/l.m.-mcgill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Heaton</title>
+      <link>/authors/m.-heaton/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/m.-heaton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.R. Whiles</title>
+      <link>/authors/m.r.-whiles/</link>
+      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <guid>/authors/m.r.-whiles/</guid>
       <description></description>
     </item>
     
@@ -113,14 +225,6 @@
       <link>/authors/k.-shono/</link>
       <pubDate>Thu, 28 Jan 2021 18:44:54 -0800</pubDate>
       <guid>/authors/k.-shono/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L.M. McGill</title>
-      <link>/authors/l.m.-mcgill/</link>
-      <pubDate>Thu, 28 Jan 2021 18:44:54 -0800</pubDate>
-      <guid>/authors/l.m.-mcgill/</guid>
       <description></description>
     </item>
     
