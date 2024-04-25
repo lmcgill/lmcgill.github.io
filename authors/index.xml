@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jan 2023 18:44:54 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 18:44:54 -0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,8 +15,24 @@
     <item>
       <title>A.H. Fullerton</title>
       <link>/authors/a.h.-fullerton/</link>
-      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
+      <pubDate>Thu, 28 Mar 2024 18:44:54 -0800</pubDate>
       <guid>/authors/a.h.-fullerton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E.A. Steel</title>
+      <link>/authors/e.a.-steel/</link>
+      <pubDate>Thu, 28 Mar 2024 18:44:54 -0800</pubDate>
+      <guid>/authors/e.a.-steel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L.M. McGill</title>
+      <link>/authors/l.m.-mcgill/</link>
+      <pubDate>Thu, 28 Mar 2024 18:44:54 -0800</pubDate>
+      <guid>/authors/l.m.-mcgill/</guid>
       <description></description>
     </item>
     
@@ -109,14 +125,6 @@
     </item>
     
     <item>
-      <title>L.M. McGill</title>
-      <link>/authors/l.m.-mcgill/</link>
-      <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
-      <guid>/authors/l.m.-mcgill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M. Heaton</title>
       <link>/authors/m.-heaton/</link>
       <pubDate>Sat, 28 Jan 2023 18:44:54 -0800</pubDate>
@@ -169,14 +177,6 @@
       <link>/authors/e.a-steel/</link>
       <pubDate>Thu, 28 Jan 2021 18:44:54 -0800</pubDate>
       <guid>/authors/e.a-steel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E.A. Steel</title>
-      <link>/authors/e.a.-steel/</link>
-      <pubDate>Thu, 28 Jan 2021 18:44:54 -0800</pubDate>
-      <guid>/authors/e.a.-steel/</guid>
       <description></description>
     </item>
     
