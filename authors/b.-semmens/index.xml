@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | </title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
+    <title>B. Semmens | </title>
+    <link>/authors/b.-semmens/</link>
+      <atom:link href="/authors/b.-semmens/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Semmens</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 18:44:54 -0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <title>B. Semmens</title>
+      <link>/authors/b.-semmens/</link>
     </image>
     
     <item>
-      <title>2</title>
-      <link>/publication_types/2/</link>
+      <title>The persistent DDT footprint of ocean disposal, and ecological controls on bioaccumulation in fishes</title>
+      <link>/publication/ddt_reanalysis/</link>
       <pubDate>Mon, 28 Oct 2024 18:44:54 -0800</pubDate>
-      <guid>/publication_types/2/</guid>
+      <guid>/publication/ddt_reanalysis/</guid>
       <description></description>
     </item>
     
